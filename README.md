@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <a href ="https://www.linkedin.com/in/sudirkrishnaars/">Sudir Krishnaa RS</a> 👋</h1>
-<h3 align="center">Learning, Growing and Exploring the World</h3>
+<h3 align="center">Flutter Developer | UI/UX | Tech Enthusiast </h3>
 
 
 ![](https://komarev.com/ghpvc/?username=SudirKrishnaaRS)
