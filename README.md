@@ -4,10 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SudirKrishnaaRS)
 
-As a tech enthusiast and a divergent thinker had always aspired to make use of modern technology for good cause. Am a YouTuber, I share my opinions, thoughts & reviews on Gadgets and Tech since 14. I love coding and designing stuff my way.
-
-
-* ✉️  You can contact me at [sudirkrish17@gmail.com](mailto:sudirkrish17@gmail.com)
+* ✉️  You can contact me: [here](https://www.linkedin.com/in/sudirkrishnaars/)
 * 🧠  I'm learning Flutter, Web Dev
 * ⚡  An aspiring budding Computer Engineer pursuing my degree at SKCET. Recently won 2nd Prize Overall in OctaHacks 3.0. for my Flutter App.
 * 😄 Pronouns: He/His
