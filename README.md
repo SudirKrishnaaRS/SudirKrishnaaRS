@@ -6,13 +6,12 @@
   <img alt="Coder GIF" height=350 width=450 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 </p>
 
-
 ![](https://komarev.com/ghpvc/?username=SudirKrishnaaRS)
 
-* ✉️  You can contact me: [here](https://www.linkedin.com/in/sudirkrishnaars/)
-* 🧠  I'm learning Flutter, Web Dev
-* ⚡  An aspiring budding Computer Engineer pursuing my degree at SKCET. Recently won 2nd Prize Overall in OctaHacks 3.0. for my Flutter App.
-* 😄 Pronouns: He/His
+- ✉️  You can contact me: [here](https://www.linkedin.com/in/sudirkrishnaars/)
+- 🧠  I'm learning Flutter, Web Dev
+- ⚡  An aspiring budding Computer Engineer pursuing my degree at SKCET. Recently won 2nd Prize Overall in OctaHacks 3.0. for my Flutter App.
+- 😄 Pronouns: He/His
 
 ### Skills
 
@@ -70,8 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
 
-
-
 ### Socials
 
 ###
@@ -98,24 +95,21 @@
 </div>
 
 ###
+
 ### Badges
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudirkrishnaars&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="sudirkrishnaars" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudirkrishnaars&theme=dark" alt="sudirkrishnaars" /></p>
 
-
-
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-
 
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/sudirkrishA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SudirKrishnaaRS/SudirKrishnaaRS/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SudirKrishnaaRS/SudirKrishnaaRS/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SudirKrishnaaRS/SudirKrishnaaRS/output/github-snake.svg" />
+</picture>
