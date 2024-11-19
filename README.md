@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm <a href ="https://www.linkedin.com/in/sudirkrishnaars/">Sudir Krishnaa RS</a> 👋</h1>
-<h3 align="center">Frontend Developer | Tech Enthusiast </h3>
+<h3 align="center">Software Developer | Tech Enthusiast </h3>
 
 <br>
 <p align="center">
